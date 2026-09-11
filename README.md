@@ -1,6 +1,12 @@
 # Vanguard Edge Local Vision (VELV)
 
-Lectura y explicación de documentos bancarios 100% en el dispositivo, sin que ninguna imagen ni dato salga jamás del equipo. Construido para el Decentralized AI Hackathon.
+Lectura y explicación de documentos bancarios 100% en el dispositivo, sin que ninguna imagen ni dato salga jamás del equipo. Construido para el **Decentralized AI Hackathon**.
+
+## Compite en:
+
+Track 03 — Desafío General (Sovereign Intelligence at the Edge)
+Track 02 — Reto Tether: QVAC Psy (VisionPsy)
+Track 05 — Reto Caja de Ahorros (IA descentralizada para banca)
 
 ## Qué hace
 
