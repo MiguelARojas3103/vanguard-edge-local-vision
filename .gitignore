@@ -1,0 +1,9 @@
+node_modules/
+out/
+dist/
+release/
+.DS_Store
+*.log
+.qvac-models/
+performance-logs/*.json
+!performance-logs/.gitkeep
